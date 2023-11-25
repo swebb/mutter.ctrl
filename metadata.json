@@ -1,0 +1,8 @@
+{
+  "name": "Mutter ctrl",
+  "description": "Control Mutter windows like wmctrl",
+  "uuid": "mutter.ctrl@steven.daniel.webb.gmail.com",
+  "shell-version": [
+    "45"
+  ]
+}
